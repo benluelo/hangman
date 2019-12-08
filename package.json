@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/benluelo/hangman/issues"
   },
-  "homepage": "https://github.com/benluelo/hangman#readme"
+  "homepage": "https://github.com/benluelo/hangman#readme",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
 }
